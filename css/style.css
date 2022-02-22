@@ -1,0 +1,33 @@
+.wrapper{
+    width:50%;
+    margin: 0 auto;
+    min-height:250px;
+}
+
+.question{
+    background-color: #eee;
+    padding: 25px;
+    display: block;
+}
+
+.answer{
+    display: block;
+    height: 100px;
+    width: 20%;
+    float: left;
+    border: 2px solid black;
+    margin-right: 4%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17pt;
+    line-height: 97px;
+}
+
+.answer:hover{
+	background-color: #aaa;
+}
+
+.result{
+	background-color: orange;
+	font-size: x-large;
+}

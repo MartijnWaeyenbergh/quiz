@@ -1,0 +1,5 @@
+<?php
+
+	define("QUIZESPATH","./quizes/");
+
+?>
